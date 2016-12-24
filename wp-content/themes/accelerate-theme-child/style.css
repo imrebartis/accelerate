@@ -42,7 +42,9 @@
 }
 .MailChimpText {
 	float:left;
-	margin-right: 1.5em;
+	margin-left: -7em;
+	margin-right: 3.5em;
+	width:50%;
 }
 .MailChimpText h5 {
 	font-weight:lighter;
@@ -51,5 +53,6 @@
 }
 .MailChimpImages {
 	float:left;
-	margin-right: 4em;
+	margin-right: 2em;
+	width: 50%;
 }
